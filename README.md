@@ -1,5 +1,7 @@
 # Synvoras
 
+CA pump.fun : 7pS1Kqho9pHGMi6SyXNpZSiQ22iBMs5jtFcCDw3rpump
+
 > The Decentralized Intelligence Layer for Solana.
 
 Own your AI. Power the network. Earn from growth.
